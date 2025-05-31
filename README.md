@@ -1,11 +1,8 @@
-# Merlin Drive: Dodge the Duds
+# Merlin Drive: Dodge the Duds - Sega Style
 
-A lightweight 8-bit style mini game designed for sports betting fans. 
-Collect winning tickets like `ML`, `2-LEG`, `+$DOG` while dodging bad takes — all during your app's loading screen!
+A Sega-inspired 8-bit pseudo-3D racing mini game designed to play while Merlin Picks loads.
 
-## Controls
-- 🖱️ Mouse: Move left/right
-- 📱 Touch: Slide to steer
-- 🎯 Goal: Rack up points before the screen loads
-
-Built for fun and deployable on Firebase or GitHub Pages.
+## How to Play
+- Use mouse or touch to steer left/right.
+- Collect winning tickets like `ML`, `2-LEG`, `+$DOG`.
+- Dodge the duds and rack up your score!
